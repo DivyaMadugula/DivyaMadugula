@@ -62,6 +62,8 @@ Currently exploring:
 # 🚀 Featured Projects
 
 ##  Aura AI — Autonomous Personal Productivity AI Agent
+🔗 **GitHub:** [View Repository](https://github.com/DivyaMadugula/autonomous-productivity-agent)
+
 
 An AI-powered productivity assistant that autonomously plans, schedules, and optimizes user tasks.
 
@@ -77,6 +79,7 @@ An AI-powered productivity assistant that autonomously plans, schedules, and opt
 ---
 
 ##  SynDia — Synthetic Data Generation for Diabetes
+🔗 **GitHub:** [View Repository](https://github.com/DivyaMadugula/synthetic-data-generator)
 
 An AI-based synthetic healthcare data generation platform that creates realistic diabetes datasets while preserving privacy.
 
@@ -91,6 +94,7 @@ An AI-based synthetic healthcare data generation platform that creates realistic
 ---
 
 ##  AI-Powered Multimodal Product Search System
+🔗 **GitHub:** [View Repository](YOUR_SEARCHOPTIMIZER_LINK)
 
 An intelligent product search engine combining semantic search and image-based retrieval.
 
