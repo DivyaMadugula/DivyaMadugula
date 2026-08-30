@@ -6,21 +6,21 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a Computer Science student (Graduating 2027) passionate about building **AI-powered applications, automation systems, and data-driven solutions**.
 
 I enjoy transforming real-world problems into scalable software solutions using **Generative AI, Machine Learning, and modern backend technologies**.
 
 Currently exploring:
-- 🤖 Generative AI & AI Agents
-- 🔍 Retrieval Augmented Generation (RAG)
-- 🧠 Machine Learning Applications
-- ⚡ Building End-to-End AI Products
+-  Generative AI & AI Agents
+-  Retrieval Augmented Generation (RAG)
+-  Machine Learning Applications
+- Building End-to-End AI Products
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 
@@ -61,7 +61,7 @@ Currently exploring:
 
 # 🚀 Featured Projects
 
-## 🧠 Aura AI — Autonomous Personal Productivity AI Agent
+##  Aura AI — Autonomous Personal Productivity AI Agent
 
 An AI-powered productivity assistant that autonomously plans, schedules, and optimizes user tasks.
 
@@ -76,7 +76,7 @@ An AI-powered productivity assistant that autonomously plans, schedules, and opt
 
 ---
 
-## 🧬 SynDia — Synthetic Data Generation for Diabetes
+##  SynDia — Synthetic Data Generation for Diabetes
 
 An AI-based synthetic healthcare data generation platform that creates realistic diabetes datasets while preserving privacy.
 
@@ -90,7 +90,7 @@ An AI-based synthetic healthcare data generation platform that creates realistic
 
 ---
 
-## 🔍 AI-Powered Multimodal Product Search System
+##  AI-Powered Multimodal Product Search System
 
 An intelligent product search engine combining semantic search and image-based retrieval.
 
@@ -104,22 +104,13 @@ An intelligent product search engine combining semantic search and image-based r
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advanced Generative AI Applications
 - AI Agents and Multi-Agent Systems
 - Cloud Deployment
 - System Design
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DivyaMadugula&show_icons=true&theme=radical">
-
-</p>
 
 ---
 
@@ -130,7 +121,7 @@ An intelligent product search engine combining semantic search and image-based r
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/divya-madugula/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
