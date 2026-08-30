@@ -46,7 +46,6 @@ Currently exploring:
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </p>
 
@@ -78,7 +77,7 @@ An AI-powered productivity assistant that autonomously plans, schedules, and opt
 
 ---
 
-##  SynDia — Synthetic Data Generation for Diabetes
+##  SynDia — Synthetic Data Generation for Diabetes using Gen-AI
 🔗 **GitHub:** [View Repository](https://github.com/DivyaMadugula/synthetic-data-generator)
 
 An AI-based synthetic healthcare data generation platform that creates realistic diabetes datasets while preserving privacy.
@@ -94,7 +93,7 @@ An AI-based synthetic healthcare data generation platform that creates realistic
 ---
 
 ##  AI-Powered Multimodal Product Search System
-🔗 **GitHub:** [View Repository](YOUR_SEARCHOPTIMIZER_LINK)
+🔗 **GitHub:** [View Repository](https://github.com/DivyaMadugula/AI-Ecommerce-Recommendation-System)
 
 An intelligent product search engine combining semantic search and image-based retrieval.
 
@@ -116,7 +115,16 @@ An intelligent product search engine combining semantic search and image-based r
 - System Design
 
 
+
+
+
 ---
+Open to **Software Engineering Internships, AI/ML Internships, and Full-Time Opportunities**.
+
+Interested in building **AI-powered applications and scalable software solutions**.
+
+---
+
 
 # 🤝 Connect With Me
 
